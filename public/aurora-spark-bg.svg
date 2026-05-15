@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>PogoSphere — Aurora Spark orb (with dark bg, for app icon use)</title>
+  <defs>
+    <linearGradient id="bg8c" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0a30"/>
+      <stop offset="100%" stop-color="#040312"/>
+    </linearGradient>
+    <radialGradient id="orb8c" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#fbcfe8"/>
+      <stop offset="20%" stop-color="#f0abfc"/>
+      <stop offset="45%" stop-color="#a78bfa"/>
+      <stop offset="70%" stop-color="#6366f1"/>
+      <stop offset="92%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0c0a30"/>
+    </radialGradient>
+    <radialGradient id="hilight8c" cx="32%" cy="22%" r="38%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg8c)"/>
+  <!-- Orb r=400 (+25% from default 320). Iterations: 320 → 352 (+10%)
+       → 416 (+30%) → 440 (+37.5%, edge-to-edge) → 427 (+33.3%) →
+       this 400 (+25%, picked from a side-by-side comparison as the
+       most balanced "iOS-padded" feel without losing presence).
+       Diameter 800 / canvas 1024 = 78.1%. -->
+  <circle cx="512" cy="512" r="400" fill="url(#orb8c)"/>
+  <circle cx="512" cy="512" r="400" fill="url(#hilight8c)"/>
+  <circle cx="512" cy="512" r="399" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.2"/>
+</svg>

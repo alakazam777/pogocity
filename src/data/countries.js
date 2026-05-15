@@ -1,0 +1,67 @@
+// Major countries with rough centroid positions for crisp vector labels.
+// `tier` controls visibility window:
+//   1 = always visible (large continental nations)
+//   2 = visible at medium zoom (mid-size countries)
+//   3 = visible only when zoomed in close (small/dense countries; prevents overlap)
+export const COUNTRIES = [
+    // Tier 1 — large
+    { name: 'United States', lat: 40.0, lng: -98.0, tier: 1 },
+    { name: 'Canada', lat: 60.0, lng: -100.0, tier: 1 },
+    { name: 'Brazil', lat: -10.0, lng: -53.0, tier: 1 },
+    { name: 'Argentina', lat: -38.0, lng: -64.0, tier: 1 },
+    { name: 'Russia', lat: 60.0, lng: 90.0, tier: 1 },
+    { name: 'China', lat: 35.0, lng: 105.0, tier: 1 },
+    { name: 'India', lat: 22.0, lng: 79.0, tier: 1 },
+    { name: 'Australia', lat: -25.0, lng: 134.0, tier: 1 },
+    { name: 'Mexico', lat: 23.5, lng: -102.0, tier: 1 },
+    { name: 'France', lat: 46.5, lng: 2.0, tier: 1 },
+    { name: 'Germany', lat: 51.0, lng: 10.0, tier: 1 },
+    { name: 'Spain', lat: 40.0, lng: -4.0, tier: 1 },
+    { name: 'Egypt', lat: 27.0, lng: 30.0, tier: 1 },
+    { name: 'Algeria', lat: 28.0, lng: 3.0, tier: 1 },
+    { name: 'Saudi Arabia', lat: 24.0, lng: 45.0, tier: 1 },
+    { name: 'Iran', lat: 32.0, lng: 53.0, tier: 1 },
+
+    // Tier 2 — medium
+    { name: 'United Kingdom', lat: 54.0, lng: -3.0, tier: 2 },
+    { name: 'Italy', lat: 42.5, lng: 12.5, tier: 2 },
+    { name: 'Poland', lat: 52.0, lng: 19.0, tier: 2 },
+    { name: 'Sweden', lat: 62.0, lng: 15.0, tier: 2 },
+    { name: 'Norway', lat: 62.0, lng: 10.0, tier: 2 },
+    { name: 'Finland', lat: 64.0, lng: 26.0, tier: 2 },
+    { name: 'Ukraine', lat: 49.0, lng: 32.0, tier: 2 },
+    { name: 'Turkey', lat: 39.0, lng: 35.0, tier: 2 },
+    { name: 'Japan', lat: 36.0, lng: 138.0, tier: 2 },
+    { name: 'South Korea', lat: 36.0, lng: 128.0, tier: 2 },
+    { name: 'Indonesia', lat: -2.0, lng: 118.0, tier: 2 },
+    { name: 'Pakistan', lat: 30.0, lng: 70.0, tier: 2 },
+    { name: 'Thailand', lat: 15.0, lng: 100.0, tier: 2 },
+    { name: 'Vietnam', lat: 16.0, lng: 108.0, tier: 2 },
+    { name: 'Philippines', lat: 13.0, lng: 122.0, tier: 2 },
+    { name: 'Chile', lat: -32.0, lng: -71.0, tier: 2 },
+    { name: 'Colombia', lat: 4.0, lng: -73.0, tier: 2 },
+    { name: 'Peru', lat: -10.0, lng: -76.0, tier: 2 },
+    { name: 'Venezuela', lat: 7.0, lng: -66.0, tier: 2 },
+    { name: 'Morocco', lat: 32.0, lng: -6.0, tier: 2 },
+    { name: 'Nigeria', lat: 10.0, lng: 8.0, tier: 2 },
+    { name: 'Kenya', lat: -1.0, lng: 38.0, tier: 2 },
+    { name: 'Ethiopia', lat: 9.0, lng: 40.0, tier: 2 },
+    { name: 'South Africa', lat: -30.0, lng: 25.0, tier: 2 },
+    { name: 'Greece', lat: 39.0, lng: 22.0, tier: 2 },
+    { name: 'Portugal', lat: 39.5, lng: -8.0, tier: 2 },
+    { name: 'Romania', lat: 45.9, lng: 24.9, tier: 2 },
+    { name: 'New Zealand', lat: -40.5, lng: 173.0, tier: 2 },
+    { name: 'Iceland', lat: 64.9, lng: -19.0, tier: 2 },
+
+    // Tier 3 — small / dense (only show when zoomed in close enough to read them)
+    { name: 'Netherlands', lat: 52.5, lng: 5.5, tier: 3 },
+    { name: 'Belgium', lat: 50.5, lng: 4.5, tier: 3 },
+    { name: 'Switzerland', lat: 46.8, lng: 8.2, tier: 3 },
+    { name: 'Austria', lat: 47.5, lng: 14.0, tier: 3 },
+    { name: 'Czechia', lat: 49.5, lng: 15.5, tier: 3 },
+    { name: 'Hungary', lat: 47.0, lng: 19.5, tier: 3 },
+    { name: 'Bulgaria', lat: 42.7, lng: 25.5, tier: 3 },
+    { name: 'Denmark', lat: 56.0, lng: 10.0, tier: 3 },
+    { name: 'Ireland', lat: 53.4, lng: -8.0, tier: 3 },
+    { name: 'DR Congo', lat: -4.0, lng: 22.0, tier: 3 },
+];

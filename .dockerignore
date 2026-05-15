@@ -1,0 +1,17 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+.vscode
+deployment_bundle
+deployment_bundle.zip
+scripts
+cloudflared.exe
+# Don't exclude png - needed for pokeball and other assets
+*.log
+rankings_full.json
+pm2_list.json
+tmp

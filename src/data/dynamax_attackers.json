@@ -1,0 +1,174 @@
+{
+  "attackersByType": {
+    "Acier": {
+      "pokemon": [
+        { "nameFr": "Zacian", "nameEn": "Zacian", "id": 888, "form": "Épée Suprême", "types": ["Fée", "Acier"], "isGmax": false, "quickMoveFr": "Griffe Acier", "quickMoveSpeed": 0.5, "maxMoveFr": "Gladius Maximus", "dps": 145.7 },
+        { "nameFr": "Métalosse", "nameEn": "Metagross", "id": 376, "types": ["Acier", "Psy"], "isGmax": false, "quickMoveFr": "Taillade", "quickMoveSpeed": 0.5, "maxMoveFr": "Poing Météore", "dps": 114.2 },
+        { "nameFr": "Minotaupe", "nameEn": "Excadrill", "id": 530, "types": ["Sol", "Acier"], "isGmax": false, "quickMoveFr": "Griffe Acier", "quickMoveSpeed": 0.5, "maxMoveFr": "Tête de Fer", "dps": 113.4 },
+        { "nameFr": "Zamazenta", "nameEn": "Zamazenta", "id": 889, "form": "Bouclier Suprême", "types": ["Combat", "Acier"], "isGmax": false, "quickMoveFr": "Griffe Acier", "quickMoveSpeed": 0.5, "maxMoveFr": "Aegis Maxima", "dps": 108.0 },
+        { "nameFr": "Duralugon", "nameEn": "Duraludon", "id": 884, "types": ["Acier", "Dragon"], "isGmax": false, "quickMoveFr": "Griffe Acier", "quickMoveSpeed": 0.5, "maxMoveFr": "Luminocanon", "dps": 95.0 }
+      ]
+    },
+    "Combat": {
+      "pokemon": [
+        { "nameFr": "Mackogneur", "nameEn": "Machamp", "id": 68, "types": ["Combat"], "isGmax": true, "quickMoveFr": "Riposte", "quickMoveFr2": "Poing Karaté", "quickMoveSpeed": 1.0, "maxMoveFr": "Frappe G-Max", "chargedMoveFr": "Dynamo-Poing", "dps": 134.5 },
+        { "nameFr": "Shifours", "nameEn": "Urshifu", "id": 892, "form": "Mille Poings / Poing Final", "types": ["Combat", "Eau", "Ténèbres"], "isGmax": false, "quickMoveFr": "Riposte", "quickMoveSpeed": 1.0, "maxMoveFr": "Dynamo-Poing", "dps": 113.0 },
+        { "nameFr": "Gallame", "nameEn": "Gallade", "id": 475, "types": ["Psy", "Combat"], "isGmax": false, "quickMoveFr": "Balayage", "quickMoveSpeed": 0.5, "maxMoveFr": "Close Combat", "dps": 105.8 },
+        { "nameFr": "Mackogneur", "nameEn": "Machamp", "id": 68, "types": ["Combat"], "isGmax": false, "quickMoveFr": "Riposte", "quickMoveFr2": "Poing Karaté", "quickMoveSpeed": 1.0, "maxMoveFr": "Dynamo-Poing", "dps": 104.6 },
+        { "nameFr": "Kicklee", "nameEn": "Hitmonlee", "id": 106, "types": ["Combat"], "isGmax": false, "quickMoveFr": "Balayage", "quickMoveSpeed": 0.5, "maxMoveFr": "Casse-Brique", "dps": 96.0 },
+        { "nameFr": "Quartermac", "nameEn": "Passimian", "id": 766, "types": ["Combat"], "isGmax": false, "quickMoveFr": "Riposte", "quickMoveSpeed": 1.0, "maxMoveFr": "Surpuissance", "dps": 93.0 },
+        { "nameFr": "Hexadron", "nameEn": "Falinks", "id": 870, "types": ["Combat"], "isGmax": false, "quickMoveFr": "Riposte", "quickMoveSpeed": 1.0, "maxMoveFr": "Surpuissance", "dps": 90.0 }
+      ]
+    },
+    "Dragon": {
+      "pokemon": [
+        { "nameFr": "Éthernatos", "nameEn": "Eternatus", "id": 890, "types": ["Poison", "Dragon"], "isGmax": false, "quickMoveFr": "Draco-Queue", "quickMoveSpeed": 1.0, "maxMoveFr": "Canon Dynamax", "dps": 140.0 },
+        { "nameFr": "Latios", "nameEn": "Latios", "id": 381, "types": ["Dragon", "Psy"], "isGmax": false, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Draco-Griffe", "dps": 118.9 },
+        { "nameFr": "Latias", "nameEn": "Latias", "id": 380, "types": ["Dragon", "Psy"], "isGmax": false, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Colère", "dps": 102.1 },
+        { "nameFr": "Duralugon", "nameEn": "Duraludon", "id": 884, "types": ["Acier", "Dragon"], "isGmax": false, "quickMoveFr": "Griffe Acier", "quickMoveSpeed": 0.5, "maxMoveFr": "Draco-Griffe", "dps": 95.0 },
+        { "nameFr": "Draieul", "nameEn": "Drampa", "id": 780, "types": ["Normal", "Dragon"], "isGmax": false, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Colère", "dps": 88.0 }
+      ]
+    },
+    "Eau": {
+      "pokemon": [
+        { "nameFr": "Lézargus", "nameEn": "Inteleon", "id": 818, "types": ["Eau"], "isGmax": true, "quickMoveFr": "Pistolet à O", "quickMoveSpeed": 0.5, "maxMoveFr": "Gâchette G-Max", "chargedMoveFr": "Hydrocanon", "dps": 149.6 },
+        { "nameFr": "Krabboss", "nameEn": "Kingler", "id": 99, "types": ["Eau"], "isGmax": true, "quickMoveFr": "Griffe Acier", "quickMoveSpeed": 0.5, "maxMoveFr": "Bulles G-Max", "chargedMoveFr": "Vibraqua", "dps": 137.7 },
+        { "nameFr": "Tortank", "nameEn": "Blastoise", "id": 9, "types": ["Eau"], "isGmax": true, "quickMoveFr": "Pistolet à O", "quickMoveSpeed": 0.5, "maxMoveFr": "Canonnade G-Max", "chargedMoveFr": "Hydrocanon", "dps": 100.4 },
+        { "nameFr": "Amonistar", "nameEn": "Omastar", "id": 139, "types": ["Roche", "Eau"], "isGmax": false, "quickMoveFr": "Pistolet à O", "quickMoveSpeed": 0.5, "maxMoveFr": "Hydrocanon", "dps": 92.0 },
+        { "nameFr": "Aquali", "nameEn": "Vaporeon", "id": 134, "types": ["Eau"], "isGmax": false, "quickMoveFr": "Pistolet à O", "quickMoveSpeed": 0.5, "maxMoveFr": "Hydrocanon", "dps": 88.0 },
+        { "nameFr": "Kabutops", "nameEn": "Kabutops", "id": 141, "types": ["Roche", "Eau"], "isGmax": false, "quickMoveFr": "Taillade", "quickMoveSpeed": 0.5, "maxMoveFr": "Vibraqua", "dps": 85.0 }
+      ]
+    },
+    "Électrik": {
+      "pokemon": [
+        { "nameFr": "Salarsen", "nameEn": "Toxtricity", "id": 849, "types": ["Électrik", "Poison"], "isGmax": true, "quickMoveFr": "Étincelle", "quickMoveSpeed": 0.5, "maxMoveFr": "Choc G-Max", "chargedMoveFr": "Tonnerre", "dps": 129.1 },
+        { "nameFr": "Électhor", "nameEn": "Zapdos", "id": 145, "types": ["Électrik", "Vol"], "isGmax": false, "quickMoveFr": "Éclair", "quickMoveSpeed": 0.5, "maxMoveFr": "Tonnerre", "dps": 112.6 },
+        { "nameFr": "Raikou", "nameEn": "Raikou", "id": 243, "types": ["Électrik"], "isGmax": false, "quickMoveFr": "Éclair", "quickMoveSpeed": 0.5, "maxMoveFr": "Éclair Fou", "dps": 110.0 },
+        { "nameFr": "Voltali", "nameEn": "Jolteon", "id": 135, "types": ["Électrik"], "isGmax": false, "quickMoveFr": "Éclair", "quickMoveSpeed": 0.5, "maxMoveFr": "Tonnerre", "dps": 95.0 },
+        { "nameFr": "Pikachu", "nameEn": "Pikachu", "id": 25, "types": ["Électrik"], "isGmax": true, "quickMoveFr": "Éclair", "quickMoveSpeed": 0.5, "maxMoveFr": "Foudre G-Max", "chargedMoveFr": "Tonnerre", "dps": 68.6 }
+      ]
+    },
+    "Fée": {
+      "pokemon": [
+        { "nameFr": "Gardevoir", "nameEn": "Gardevoir", "id": 282, "types": ["Psy", "Fée"], "isGmax": false, "quickMoveFr": "Charme", "quickMoveSpeed": 1.5, "maxMoveFr": "Éclat Magique", "dps": 105.8 },
+        { "nameFr": "Sorcilence", "nameEn": "Hatterene", "id": 858, "types": ["Psy", "Fée"], "isGmax": false, "quickMoveFr": "Coupe Psycho", "quickMoveSpeed": 0.5, "maxMoveFr": "Éclat Magique", "dps": 98.0 },
+        { "nameFr": "Nymphali", "nameEn": "Sylveon", "id": 700, "types": ["Fée"], "isGmax": false, "quickMoveFr": "Charme", "quickMoveSpeed": 1.5, "maxMoveFr": "Éclat Magique", "dps": 96.0 }
+      ]
+    },
+    "Feu": {
+      "pokemon": [
+        { "nameFr": "Pyrobut", "nameEn": "Cinderace", "id": 815, "types": ["Feu"], "isGmax": true, "quickMoveFr": "Charge", "quickMoveSpeed": 0.5, "maxMoveFr": "Pyroball G-Max", "chargedMoveFr": "Surchauffe", "dps": 136.6 },
+        { "nameFr": "Dracaufeu", "nameEn": "Charizard", "id": 6, "types": ["Feu", "Vol"], "isGmax": true, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Fournaise G-Max", "chargedMoveFr": "Rafale Feu", "dps": 128.5 },
+        { "nameFr": "Darumacho", "nameEn": "Darmanitan", "id": 555, "types": ["Feu"], "isGmax": false, "quickMoveFr": "Charge", "quickMoveSpeed": 0.5, "maxMoveFr": "Surchauffe", "dps": 116.8 },
+        { "nameFr": "Sulfura", "nameEn": "Moltres", "id": 146, "types": ["Feu", "Vol"], "isGmax": false, "quickMoveFr": "Danse Flammes", "quickMoveSpeed": 1.0, "maxMoveFr": "Surchauffe", "dps": 111.7 },
+        { "nameFr": "Ho-Oh", "nameEn": "Ho-Oh", "id": 250, "types": ["Feu", "Vol"], "isGmax": false, "quickMoveFr": "Calcination", "quickMoveSpeed": 1.5, "maxMoveFr": "Déflagration", "dps": 106.7 },
+        { "nameFr": "Entei", "nameEn": "Entei", "id": 244, "types": ["Feu"], "isGmax": false, "quickMoveFr": "Crocs Feu", "quickMoveSpeed": 1.0, "maxMoveFr": "Surchauffe", "dps": 104.0 },
+        { "nameFr": "Pyroli", "nameEn": "Flareon", "id": 136, "types": ["Feu"], "isGmax": false, "quickMoveFr": "Danse Flammes", "quickMoveSpeed": 1.0, "maxMoveFr": "Surchauffe", "dps": 100.0 },
+        { "nameFr": "Dracaufeu", "nameEn": "Charizard", "id": 6, "types": ["Feu", "Vol"], "isGmax": false, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Rafale Feu", "dps": 100.0 }
+      ]
+    },
+    "Glace": {
+      "pokemon": [
+        { "nameFr": "Lokhlass", "nameEn": "Lapras", "id": 131, "types": ["Eau", "Glace"], "isGmax": true, "quickMoveFr": "Pistolet à O", "quickMoveSpeed": 0.5, "maxMoveFr": "Résonance G-Max", "chargedMoveFr": "Triple Axel", "dps": 97.2 },
+        { "nameFr": "Givrali", "nameEn": "Glaceon", "id": 471, "types": ["Glace"], "isGmax": false, "quickMoveFr": "Souffle Glacé", "quickMoveSpeed": 1.0, "maxMoveFr": "Avalanche", "dps": 94.0 },
+        { "nameFr": "Artikodin", "nameEn": "Articuno", "id": 144, "types": ["Glace", "Vol"], "isGmax": false, "quickMoveFr": "Souffle Glacé", "quickMoveSpeed": 1.0, "maxMoveFr": "Triple Axel", "dps": 86.9 },
+        { "nameFr": "Hexagel", "nameEn": "Cryogonal", "id": 615, "types": ["Glace"], "isGmax": false, "quickMoveFr": "Souffle Glacé", "quickMoveSpeed": 1.0, "maxMoveFr": "Triple Axel", "dps": 82.0 }
+      ]
+    },
+    "Insecte": {
+      "pokemon": [
+        { "nameFr": "Papilusion", "nameEn": "Butterfree", "id": 12, "types": ["Insecte", "Vol"], "isGmax": true, "quickMoveFr": "Piqûre", "quickMoveSpeed": 0.5, "maxMoveFr": "Illusion G-Max", "chargedMoveFr": "Bourdon", "dps": 98.3 },
+        { "nameFr": "Papilusion", "nameEn": "Butterfree", "id": 12, "types": ["Insecte", "Vol"], "isGmax": false, "quickMoveFr": "Piqûre", "quickMoveSpeed": 0.5, "maxMoveFr": "Bourdon", "dps": 76.0 }
+      ]
+    },
+    "Normal": {
+      "pokemon": [
+        { "nameFr": "Ronflex", "nameEn": "Snorlax", "id": 143, "types": ["Normal"], "isGmax": true, "quickMoveFr": "Léchouille", "quickMoveSpeed": 0.5, "maxMoveFr": "Stockpile G-Max", "chargedMoveFr": "Ultralaser", "dps": 110.7 },
+        { "nameFr": "Leuphorie", "nameEn": "Blissey", "id": 242, "types": ["Normal"], "isGmax": false, "quickMoveFr": "Écras'Face", "quickMoveSpeed": 0.5, "maxMoveFr": "Ultralaser", "dps": 75.0 },
+        { "nameFr": "Miaouss", "nameEn": "Meowth", "id": 52, "types": ["Normal"], "isGmax": true, "quickMoveFr": "Griffe", "quickMoveSpeed": 0.5, "maxMoveFr": "Jackpot G-Max", "chargedMoveFr": "Ultralaser", "dps": 57.8 }
+      ]
+    },
+    "Plante": {
+      "pokemon": [
+        { "nameFr": "Gorythmic", "nameEn": "Rillaboom", "id": 812, "types": ["Plante"], "isGmax": true, "quickMoveFr": "Griffe", "quickMoveSpeed": 0.5, "maxMoveFr": "Percussion G-Max", "chargedMoveFr": "Lame Feuille", "dps": 137.2 },
+        { "nameFr": "Florizarre", "nameEn": "Venusaur", "id": 3, "types": ["Plante", "Poison"], "isGmax": true, "quickMoveFr": "Fouet Lianes", "quickMoveSpeed": 0.5, "maxMoveFr": "Fouet G-Max", "chargedMoveFr": "Végé-Attaque", "dps": 115.0 },
+        { "nameFr": "Florizarre", "nameEn": "Venusaur", "id": 3, "types": ["Plante", "Poison"], "isGmax": false, "quickMoveFr": "Fouet Lianes", "quickMoveSpeed": 0.5, "maxMoveFr": "Végé-Attaque", "dps": 89.5 },
+        { "nameFr": "Phyllali", "nameEn": "Leafeon", "id": 470, "types": ["Plante"], "isGmax": false, "quickMoveFr": "Tranch'Herbe", "quickMoveSpeed": 1.0, "maxMoveFr": "Lame Feuille", "dps": 88.0 }
+      ]
+    },
+    "Poison": {
+      "pokemon": [
+        { "nameFr": "Éthernatos", "nameEn": "Eternatus", "id": 890, "types": ["Poison", "Dragon"], "isGmax": false, "quickMoveFr": "Direct Toxik", "quickMoveSpeed": 1.0, "maxMoveFr": "Canon Dynamax", "dps": 140.0 },
+        { "nameFr": "Salarsen", "nameEn": "Toxtricity", "id": 849, "types": ["Électrik", "Poison"], "isGmax": true, "quickMoveFr": "Étincelle", "quickMoveSpeed": 0.5, "maxMoveFr": "Choc G-Max", "chargedMoveFr": "Tonnerre", "dps": 129.1 },
+        { "nameFr": "Miasmax", "nameEn": "Garbodor", "id": 569, "types": ["Poison"], "isGmax": true, "quickMoveFr": "Harcèlement", "quickMoveSpeed": 1.0, "maxMoveFr": "Pestilence G-Max", "chargedMoveFr": "Bombe Beurk", "dps": 105.8 },
+        { "nameFr": "Ectoplasma", "nameEn": "Gengar", "id": 94, "types": ["Spectre", "Poison"], "isGmax": false, "quickMoveFr": "Dard-Venin", "quickMoveSpeed": 0.5, "maxMoveFr": "Bombe Beurk", "dps": 98.0 }
+      ]
+    },
+    "Psy": {
+      "pokemon": [
+        { "nameFr": "Alakazam", "nameEn": "Alakazam", "id": 65, "types": ["Psy"], "isGmax": false, "quickMoveFr": "Coupe Psycho", "quickMoveSpeed": 0.5, "maxMoveFr": "Psyko", "dps": 120.1 },
+        { "nameFr": "Latios", "nameEn": "Latios", "id": 381, "types": ["Dragon", "Psy"], "isGmax": false, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Psyko", "dps": 118.9 },
+        { "nameFr": "Mentali", "nameEn": "Espeon", "id": 196, "types": ["Psy"], "isGmax": false, "quickMoveFr": "Psykoud'Boul", "quickMoveSpeed": 1.0, "maxMoveFr": "Psyko", "dps": 115.9 },
+        { "nameFr": "Métalosse", "nameEn": "Metagross", "id": 376, "types": ["Acier", "Psy"], "isGmax": false, "quickMoveFr": "Taillade", "quickMoveSpeed": 0.5, "maxMoveFr": "Psyko", "dps": 114.2 },
+        { "nameFr": "Gallame", "nameEn": "Gallade", "id": 475, "types": ["Psy", "Combat"], "isGmax": false, "quickMoveFr": "Coupe Psycho", "quickMoveSpeed": 0.5, "maxMoveFr": "Psyko", "dps": 105.8 },
+        { "nameFr": "Gardevoir", "nameEn": "Gardevoir", "id": 282, "types": ["Psy", "Fée"], "isGmax": false, "quickMoveFr": "Charme", "quickMoveSpeed": 1.5, "maxMoveFr": "Psyko", "dps": 105.8 },
+        { "nameFr": "Latias", "nameEn": "Latias", "id": 380, "types": ["Dragon", "Psy"], "isGmax": false, "quickMoveFr": "Draco-Souffle", "quickMoveSpeed": 0.5, "maxMoveFr": "Psyko", "dps": 102.1 },
+        { "nameFr": "Sorcilence", "nameEn": "Hatterene", "id": 858, "types": ["Psy", "Fée"], "isGmax": false, "quickMoveFr": "Coupe Psycho", "quickMoveSpeed": 0.5, "maxMoveFr": "Psyko", "dps": 98.0 }
+      ]
+    },
+    "Roche": {
+      "pokemon": [
+        { "nameFr": "Gigalithe", "nameEn": "Gigalith", "id": 526, "types": ["Roche"], "isGmax": false, "quickMoveFr": "Anti-Air", "quickMoveSpeed": 1.0, "maxMoveFr": "Laser Météore", "dps": 101.2 },
+        { "nameFr": "Amonistar", "nameEn": "Omastar", "id": 139, "types": ["Roche", "Eau"], "isGmax": false, "quickMoveFr": "Pistolet à O", "quickMoveSpeed": 0.5, "maxMoveFr": "Éboulement", "dps": 92.0 },
+        { "nameFr": "Caratroc", "nameEn": "Shuckle", "id": 213, "types": ["Insecte", "Roche"], "isGmax": false, "quickMoveFr": "Jet-Pierres", "quickMoveSpeed": 1.0, "maxMoveFr": "Lame de Roc", "dps": 45.0 }
+      ]
+    },
+    "Sol": {
+      "pokemon": [
+        { "nameFr": "Minotaupe", "nameEn": "Excadrill", "id": 530, "types": ["Sol", "Acier"], "isGmax": false, "quickMoveFr": "Tir de Boue", "quickMoveSpeed": 0.5, "maxMoveFr": "Sable Ardent", "dps": 113.4 }
+      ]
+    },
+    "Spectre": {
+      "pokemon": [
+        { "nameFr": "Ectoplasma", "nameEn": "Gengar", "id": 94, "types": ["Spectre", "Poison"], "isGmax": true, "quickMoveFr": "Léchouille", "quickMoveSpeed": 0.5, "maxMoveFr": "Hantise G-Max", "chargedMoveFr": "Ball'Ombre", "dps": 149.0 },
+        { "nameFr": "Ectoplasma", "nameEn": "Gengar", "id": 94, "types": ["Spectre", "Poison"], "isGmax": false, "quickMoveFr": "Léchouille", "quickMoveSpeed": 0.5, "maxMoveFr": "Ball'Ombre", "dps": 115.9 }
+      ]
+    },
+    "Ténèbres": {
+      "pokemon": [
+        { "nameFr": "Angoliath", "nameEn": "Grimmsnarl", "id": 861, "types": ["Ténèbres", "Fée"], "isGmax": true, "quickMoveFr": "Coup Bas", "quickMoveSpeed": 0.5, "maxMoveFr": "Torpeur G-Max", "chargedMoveFr": "Représailles", "dps": 130.7 },
+        { "nameFr": "Shifours", "nameEn": "Urshifu", "id": 892, "form": "Poing Final", "types": ["Combat", "Ténèbres"], "isGmax": false, "quickMoveFr": "Coup Bas", "quickMoveSpeed": 0.5, "maxMoveFr": "Représailles", "dps": 113.0 },
+        { "nameFr": "Rongrigou", "nameEn": "Malamar", "id": 687, "types": ["Ténèbres", "Psy"], "isGmax": false, "quickMoveFr": "Coupe Psycho", "quickMoveSpeed": 0.5, "maxMoveFr": "Mâchouille", "dps": 78.0 },
+        { "nameFr": "Ténéfix", "nameEn": "Sableye", "id": 302, "types": ["Ténèbres", "Spectre"], "isGmax": false, "quickMoveFr": "Griffe Ombre", "quickMoveSpeed": 0.5, "maxMoveFr": "Tricherie", "dps": 72.0 },
+        { "nameFr": "Noctali", "nameEn": "Umbreon", "id": 197, "types": ["Ténèbres"], "isGmax": false, "quickMoveFr": "Aboiement", "quickMoveSpeed": 1.0, "maxMoveFr": "Tricherie", "dps": 70.0 }
+      ]
+    },
+    "Vol": {
+      "pokemon": [
+        { "nameFr": "Sulfura", "nameEn": "Moltres", "id": 146, "types": ["Feu", "Vol"], "isGmax": false, "quickMoveFr": "Cru-Ailes", "quickMoveSpeed": 1.0, "maxMoveFr": "Piqué", "dps": 111.7 },
+        { "nameFr": "Déflaisan", "nameEn": "Unfezant", "id": 521, "types": ["Normal", "Vol"], "isGmax": false, "quickMoveFr": "Lame d'Air", "quickMoveSpeed": 1.5, "maxMoveFr": "Piqué", "dps": 85.0 },
+        { "nameFr": "Corvaillus", "nameEn": "Corviknight", "id": 823, "types": ["Vol", "Acier"], "isGmax": false, "quickMoveFr": "Jet de Sable", "quickMoveSpeed": 0.5, "maxMoveFr": "Piqué", "dps": 82.0 }
+      ]
+    }
+  },
+  "typeInfo": {
+    "Acier": { "color": "#B8B8D0", "icon": "steel" },
+    "Combat": { "color": "#C03028", "icon": "fighting" },
+    "Dragon": { "color": "#7038F8", "icon": "dragon" },
+    "Eau": { "color": "#6890F0", "icon": "water" },
+    "Électrik": { "color": "#F8D030", "icon": "electric" },
+    "Fée": { "color": "#EE99AC", "icon": "fairy" },
+    "Feu": { "color": "#F08030", "icon": "fire" },
+    "Glace": { "color": "#98D8D8", "icon": "ice" },
+    "Insecte": { "color": "#A8B820", "icon": "bug" },
+    "Normal": { "color": "#A8A878", "icon": "normal" },
+    "Plante": { "color": "#78C850", "icon": "grass" },
+    "Poison": { "color": "#A040A0", "icon": "poison" },
+    "Psy": { "color": "#F85888", "icon": "psychic" },
+    "Roche": { "color": "#B8A038", "icon": "rock" },
+    "Sol": { "color": "#E0C068", "icon": "ground" },
+    "Spectre": { "color": "#705898", "icon": "ghost" },
+    "Ténèbres": { "color": "#705848", "icon": "dark" },
+    "Vol": { "color": "#A890F0", "icon": "flying" }
+  }
+}

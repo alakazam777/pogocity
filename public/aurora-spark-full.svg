@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>PogoSphere — Aurora Spark (8c, transparent background)</title>
+  <!--
+    08c-aurora-spark-outside.svg with the dark navy <rect> background stripped.
+    All other 8c elements preserved: 6 outside sparks (with glow + white core),
+    6 connecting lines from sparks to orb, 7 scattered star dots, central orb
+    with highlight + ring. 100% transparent everywhere except the painted
+    elements themselves.
+  -->
+  <defs>
+    <radialGradient id="orb8c" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#fbcfe8"/>
+      <stop offset="20%" stop-color="#f0abfc"/>
+      <stop offset="45%" stop-color="#a78bfa"/>
+      <stop offset="70%" stop-color="#6366f1"/>
+      <stop offset="92%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0c0a30"/>
+    </radialGradient>
+    <radialGradient id="sparkGlow8c" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="40%" stop-color="#fbcfe8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hilight8c" cx="32%" cy="22%" r="38%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g fill="#ffffff">
+    <circle cx="180" cy="160" r="2" opacity="0.85"/>
+    <circle cx="820" cy="190" r="2.2" opacity="0.9"/>
+    <circle cx="880" cy="320" r="1.5" opacity="0.55"/>
+    <circle cx="130" cy="820" r="2" opacity="0.75"/>
+    <circle cx="900" cy="780" r="2.5" opacity="0.95"/>
+    <circle cx="500" cy="60" r="1.5" opacity="0.65"/>
+    <circle cx="950" cy="540" r="2" opacity="0.85"/>
+  </g>
+
+  <circle cx="512" cy="512" r="320" fill="url(#orb8c)"/>
+  <circle cx="512" cy="512" r="320" fill="url(#hilight8c)"/>
+  <circle cx="512" cy="512" r="320" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.2"/>
+
+  <g>
+    <circle cx="180" cy="280" r="55" fill="url(#sparkGlow8c)"/>
+    <circle cx="180" cy="280" r="6" fill="#ffffff"/>
+
+    <circle cx="850" cy="220" r="42" fill="url(#sparkGlow8c)"/>
+    <circle cx="850" cy="220" r="5" fill="#ffffff"/>
+
+    <circle cx="900" cy="700" r="55" fill="url(#sparkGlow8c)"/>
+    <circle cx="900" cy="700" r="6" fill="#ffffff"/>
+
+    <circle cx="140" cy="780" r="48" fill="url(#sparkGlow8c)"/>
+    <circle cx="140" cy="780" r="5" fill="#ffffff"/>
+
+    <circle cx="780" cy="900" r="38" fill="url(#sparkGlow8c)"/>
+    <circle cx="780" cy="900" r="4" fill="#ffffff"/>
+
+    <circle cx="90" cy="500" r="42" fill="url(#sparkGlow8c)"/>
+    <circle cx="90" cy="500" r="5" fill="#ffffff"/>
+  </g>
+
+  <g stroke="#ffffff" stroke-width="2" opacity="0.6" stroke-linecap="round">
+    <line x1="180" y1="280" x2="350" y2="380"/>
+    <line x1="850" y1="220" x2="700" y2="350"/>
+    <line x1="900" y1="700" x2="720" y2="640"/>
+    <line x1="140" y1="780" x2="320" y2="660"/>
+    <line x1="780" y1="900" x2="650" y2="760"/>
+    <line x1="90" y1="500" x2="240" y2="500"/>
+  </g>
+</svg>

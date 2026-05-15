@@ -1,0 +1,418 @@
+{
+  "poitiers": [
+    {
+      "name": "Site PogoPoitiers",
+      "url": "https://pogopoitiers.fr",
+      "type": "website"
+    },
+    {
+      "name": "Discord Poitiers",
+      "url": "https://discord.gg/hqRcbcd3an",
+      "type": "discord"
+    }
+  ],
+  "nancy": [
+    {
+      "name": "Discord Nancy",
+      "url": "https://discord.gg/sChNK6mZSX",
+      "type": "discord"
+    }
+  ],
+  "angers": [
+    {
+      "name": "Discord Angers",
+      "url": "https://discord.gg/qs7DBSkMS3",
+      "type": "discord"
+    }
+  ],
+  "nantes": [
+    {
+      "name": "Discord Nantes",
+      "url": "https://discord.gg/Fu9Bcah",
+      "type": "discord"
+    }
+  ],
+  "montpellier": [
+    {
+      "name": "Site PogoMontpellier",
+      "url": "https://pogomontpellier.fr",
+      "type": "website"
+    },
+    {
+      "name": "Discord Montpellier",
+      "url": "https://discord.com/invite/b23VmMAczT",
+      "type": "discord"
+    }
+  ],
+  "new york": [
+    {
+      "name": "Pokémon GO New York",
+      "url": "https://discord.gg/KjrUzdtQV",
+      "type": "discord"
+    },
+    {
+      "name": "Pokémon GO Fest NYC/Jersey",
+      "url": "https://discord.gg/Hs5RGRrFFp",
+      "type": "discord"
+    }
+  ],
+  "toronto": [
+    {
+      "name": "Pokémon GO Raids Toronto",
+      "url": "https://discord.gg/CNyZYmm",
+      "type": "discord"
+    }
+  ],
+  "ottawa": [
+    {
+      "name": "Pokémon GO Ottawa",
+      "url": "https://discord.gg/pokegoottawa",
+      "type": "discord"
+    }
+  ],
+  "san francisco": [
+    {
+      "name": "Pokémon GO Bay Area Raids",
+      "url": "https://discord.gg/cgZ5Dgp",
+      "type": "discord"
+    }
+  ],
+  "chicago": [
+    {
+      "name": "Pokémon GO Chicago Squad",
+      "url": "https://discord.gg/pokemon-go-chicago-squad-505070641133649950",
+      "type": "discord"
+    }
+  ],
+  "london": [
+    {
+      "name": "Central London (West) Pokémon GO",
+      "url": "https://discord.gg/gocentral",
+      "type": "discord"
+    },
+    {
+      "name": "North London Pokémon GO",
+      "url": "https://discord.gg/CeqTAVy",
+      "type": "discord"
+    },
+    {
+      "name": "North-West London Pokémon GO",
+      "url": "https://discord.gg/FYEwRbD",
+      "type": "discord"
+    },
+    {
+      "name": "East London Pokémon GO",
+      "url": "https://discord.gg/QNcZGRS",
+      "type": "discord"
+    },
+    {
+      "name": "South London Pokémon GO",
+      "url": "https://discord.gg/FsuUzBa",
+      "type": "discord"
+    },
+    {
+      "name": "South-West London Pokémon GO",
+      "url": "https://discord.gg/RugxGf3",
+      "type": "discord"
+    }
+  ],
+  "sydney": [
+    {
+      "name": "Pokémon GO Sydney",
+      "url": "https://discord.gg/9X2VDDE",
+      "type": "discord"
+    }
+  ],
+  "singapore": [
+    {
+      "name": "Pokémon GO Singapore",
+      "url": "https://discord.gg/pokemon-go-singapore-1207273531222663168",
+      "type": "discord"
+    }
+  ],
+  "marseille": [
+    {
+      "name": "Discord Marseille",
+      "url": "https://discord.gg/Hzw7DPt",
+      "type": "discord"
+    }
+  ],
+  "metz": [
+    {
+      "name": "Discord Metz",
+      "url": "https://discord.gg/psSYPZJ",
+      "type": "discord"
+    }
+  ],
+  "orléans": [
+    {
+      "name": "Discord Orléans",
+      "url": "https://discord.gg/n6B6XMA",
+      "type": "discord"
+    }
+  ],
+  "tours": [
+    {
+      "name": "Discord Tours",
+      "url": "https://discord.gg/pogotours",
+      "type": "discord"
+    }
+  ],
+  "limoges": [
+    {
+      "name": "Discord Limoges",
+      "url": "https://discord.gg/JRfapb3",
+      "type": "discord"
+    }
+  ],
+  "caen": [
+    {
+      "name": "Discord Caen",
+      "url": "https://discord.gg/6GtjCMB",
+      "type": "discord"
+    }
+  ],
+  "cannes": [
+    {
+      "name": "Discord Cannes",
+      "url": "https://discord.gg/4Ymkxww",
+      "type": "discord"
+    }
+  ],
+  "pau": [
+    {
+      "name": "Discord Pau",
+      "url": "https://discord.gg/exde2hTKv8",
+      "type": "discord"
+    }
+  ],
+  "colmar": [
+    {
+      "name": "Discord Colmar",
+      "url": "https://discord.gg/xWUpY2SqbS",
+      "type": "discord"
+    }
+  ],
+  "annecy": [
+    {
+      "name": "Discord Annecy",
+      "url": "https://discord.gg/GfeG6Vx",
+      "type": "discord"
+    }
+  ],
+  "france": [
+    {
+      "name": "Team Raid — Pokémon GO France",
+      "url": "https://discord.gg/pogo",
+      "type": "discord"
+    },
+    {
+      "name": "Pokémon Go France",
+      "url": "https://discord.gg/WUzWeARwCd",
+      "type": "discord"
+    }
+  ],
+  "germany": [
+    {
+      "name": "Pokémon GO Deutschland",
+      "url": "https://discord.gg/pokemon-go-deutschland-584390007620501524",
+      "type": "discord"
+    }
+  ],
+  "spain": [
+    {
+      "name": "POKÉMON GO ESP/LAT (PGEL)",
+      "url": "https://discord.gg/pokemon-go-esp-lat-pgel-753173962329948160",
+      "type": "discord"
+    }
+  ],
+  "japan": [
+    {
+      "name": "Pokémon GO JPN",
+      "url": "https://discord.gg/rzUCJYF",
+      "type": "discord"
+    }
+  ],
+  "philippines": [
+    {
+      "name": "Pokémon GO Philippines Raider's Club",
+      "url": "https://discord.gg/pokemon-go-raiders-ph",
+      "type": "discord"
+    }
+  ],
+  "seattle": [
+    {
+      "name": "Mega PokéGo Seattle",
+      "url": "https://discord.gg/mega-pokego-seattle-community-ambassadors-pokemon-973309093316030544",
+      "type": "discord"
+    }
+  ],
+  "brisbane": [
+    {
+      "name": "Pokémon GO QLD Australia",
+      "url": "https://discord.gg/pokemon-go-qld-australia-451941126396706817",
+      "type": "discord"
+    }
+  ],
+  "italy": [
+    {
+      "name": "Pokémon Millennium (Italian community)",
+      "url": "https://discord.gg/mt5c2aH",
+      "type": "discord"
+    }
+  ],
+  "lyon": [
+    {
+      "name": "Pokémon GO Lyon",
+      "url": "https://discord.gg/642144047158525957",
+      "type": "discord"
+    }
+  ],
+  "mexico city": [
+    {
+      "name": "Safari City CDMX (PoGO)",
+      "url": "https://discord.gg/U5bRhM8Kdu",
+      "type": "discord"
+    }
+  ],
+  "austin": [
+    {
+      "name": "Pogo512 (Austin / Central TX)",
+      "url": "https://discord.gg/pogo512-276234247285768192",
+      "type": "discord"
+    }
+  ],
+  "cambridge": [
+    {
+      "name": "Pokémon GO Cambridge",
+      "url": "https://discord.gg/VqG3PZe",
+      "type": "discord"
+    }
+  ],
+  "colchester": [
+    {
+      "name": "Pokémon GO Colchester",
+      "url": "https://discord.gg/vzGXgeh",
+      "type": "discord"
+    }
+  ],
+  "edinburgh": [
+    {
+      "name": "Pokémon GO Edinburgh",
+      "url": "https://discord.gg/Y3vg9md",
+      "type": "discord"
+    }
+  ],
+  "isle of man": [
+    {
+      "name": "Pokémon GO Isle of Man",
+      "url": "https://discord.gg/fD4fAH7",
+      "type": "discord"
+    }
+  ],
+  "leicester": [
+    {
+      "name": "Pokémon GO Leicester",
+      "url": "https://discord.gg/EuRYs4z",
+      "type": "discord"
+    }
+  ],
+  "macclesfield": [
+    {
+      "name": "Pokémon GO Macclesfield/Bollington",
+      "url": "https://discord.gg/DpvgGkT",
+      "type": "discord"
+    }
+  ],
+  "manchester": [
+    {
+      "name": "Pokémon GO Manchester",
+      "url": "https://discord.gg/5YGjuPz",
+      "type": "discord"
+    }
+  ],
+  "newton abbot": [
+    {
+      "name": "Pokémon GO Newton Abbot",
+      "url": "https://discord.gg/e4t65bDHXA",
+      "type": "discord"
+    }
+  ],
+  "norwich": [
+    {
+      "name": "Pokémon GO Norwich",
+      "url": "https://discord.gg/zqmpFJG",
+      "type": "discord"
+    }
+  ],
+  "plymouth": [
+    {
+      "name": "Pokémon GO Plymouth",
+      "url": "https://discord.gg/5tsCWuq",
+      "type": "discord"
+    }
+  ],
+  "portsmouth": [
+    {
+      "name": "Pokémon GO Portsmouth",
+      "url": "https://discord.gg/5Hb3EPF",
+      "type": "discord"
+    }
+  ],
+  "swindon": [
+    {
+      "name": "Pokémon GO Swindon",
+      "url": "https://discord.gg/g2A4gTS",
+      "type": "discord"
+    }
+  ],
+  "york": [
+    {
+      "name": "Pokémon GO York",
+      "url": "https://discord.gg/ztVcskh",
+      "type": "discord"
+    }
+  ],
+  "san diego": [
+    {
+      "name": "Pokémon GO San Diego",
+      "url": "https://discord.gg/pokemongosandiego",
+      "type": "discord"
+    }
+  ],
+  "sacramento": [
+    {
+      "name": "POGO Sacramento",
+      "url": "https://discord.gg/ddRavWu",
+      "type": "discord"
+    }
+  ],
+  "denver": [
+    {
+      "name": "Pokémon GO Colorado (Denver Metro + Northern CO)",
+      "url": "https://discord.gg/pogocolorado",
+      "type": "discord"
+    }
+  ],
+  "portland": [
+    {
+      "name": "Portland Pokémon Go (PDX)",
+      "url": "https://discord.gg/pdxpogo",
+      "type": "discord"
+    }
+  ],
+  "liverpool": [
+    {
+      "name": "Pokémon Go Liverpool",
+      "url": "https://discord.gg/g9bjYwh",
+      "type": "discord"
+    }
+  ],
+  "newcastle": [
+    {
+      "name": "Pokémon GO Newcastle",
+      "url": "https://discord.gg/2gZEcxs",
+      "type": "discord"
+    }
+  ]
+}

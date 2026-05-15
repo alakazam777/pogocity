@@ -1,0 +1,31 @@
+version: '3'
+services:
+  web:
+    container_name: pogocity-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3060:3000"
+    volumes:
+      # Persist data (JSON files)
+      - ./data:/app/data
+      # Persist uploaded images
+      - ./public/uploads:/app/public/uploads
+    # Load environment variables from .env.local
+    env_file:
+      - .env.local
+    restart: unless-stopped
+
+  bot-gateway:
+    container_name: pogocity-bot-gateway
+    image: node:22-alpine
+    working_dir: /app
+    volumes:
+      - ./bot-gateway.js:/app/bot-gateway.js:ro
+    # Environment (incl. DISCORD_BOT_TOKEN_ADMIN) is loaded from .env.local —
+    # never hard-code tokens here.
+    env_file:
+      - .env.local
+    command: node bot-gateway.js
+    restart: unless-stopped

@@ -1,0 +1,1910 @@
+[
+  {
+    "type": "Bug",
+    "typeFr": "Insecte",
+    "emoji": "🪲",
+    "attackers": [
+      {
+        "nameEn": "Diancie",
+        "nameFr": "Diancie",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Chandelure",
+        "nameFr": "Lugulabre",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rampardos",
+        "nameFr": "Charkos",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Fire Fang",
+        "moveFr": "Crocs Feu",
+        "score": "93%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "93%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blacephalon",
+        "nameFr": "Pierroteknik",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "92%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Fire Spin",
+        "moveFr": "Danse Flammes",
+        "score": "88%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Chandelure",
+        "nameFr": "Lugulabre",
+        "moveEn": "Fire Spin",
+        "moveFr": "Danse Flammes",
+        "score": "88%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Aerodactyl",
+        "nameFr": "Ptéra",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "86%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Dark",
+    "typeFr": "Ténèbres",
+    "emoji": "🌌",
+    "attackers": [
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Force Palm",
+        "moveFr": "Force Paume",
+        "score": "95%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Heracross",
+        "nameFr": "Scarhino",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "94%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "93%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Pheromosa",
+        "nameFr": "Cancrelove",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "90%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "89%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "88%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Vikavolt",
+        "nameFr": "Lucanon",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "87%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Pinsir",
+        "nameFr": "Scarabrute",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "87%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Dragon",
+    "typeFr": "Dragon",
+    "emoji": "🐉",
+    "attackers": [
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "89%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyurem",
+        "nameFr": "Kyurem",
+        "moveEn": "Ice Fang",
+        "moveFr": "Crocs Givré",
+        "score": "88%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "Blanc"
+      },
+      {
+        "nameEn": "Gallade",
+        "nameFr": "Gallame",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "83%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Granbull",
+        "nameFr": "Granbull",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "80%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rayquaza",
+        "nameFr": "Rayquaza",
+        "moveEn": "Dragon Tail",
+        "moveFr": "Draco-Queue",
+        "score": "80%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Ice Fang",
+        "moveFr": "Crocs Givré",
+        "score": "75%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "de Galar"
+      },
+      {
+        "nameEn": "Latias",
+        "nameFr": "Latias",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "74%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gallade",
+        "nameFr": "Gallame",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "74%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Electric",
+    "typeFr": "Électrik",
+    "emoji": "⚡",
+    "attackers": [
+      {
+        "nameEn": "Excadrill",
+        "nameFr": "Minotaupe",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "100%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Mamoswine",
+        "nameFr": "Mammochon",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "97%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rhyperior",
+        "nameFr": "Rhinastoc",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "95%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Golurk",
+        "nameFr": "Golemastoc",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "88%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rhydon",
+        "nameFr": "Rhinoféros",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "88%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Donphan",
+        "nameFr": "Donphan",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "85%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Golem",
+        "nameFr": "Grolem",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "84%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Excadrill",
+        "nameFr": "Minotaupe",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "83%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Vikavolt",
+        "nameFr": "Lucanon",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "83%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Fairy",
+    "typeFr": "Fée",
+    "emoji": "🧚",
+    "attackers": [
+      {
+        "nameEn": "Sneasler",
+        "nameFr": "Farfurex",
+        "moveEn": "Poison Jab",
+        "moveFr": "Direct Toxik",
+        "score": "100%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Metagross",
+        "nameFr": "Métalosse",
+        "moveEn": "Bullet Punch",
+        "moveFr": "Pisto-Poing",
+        "score": "99%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Bullet Punch",
+        "moveFr": "Pisto-Poing",
+        "score": "99%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Beedrill",
+        "nameFr": "Dardargnan",
+        "moveEn": "Poison Jab",
+        "moveFr": "Direct Toxik",
+        "score": "97%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Metagross",
+        "nameFr": "Métalosse",
+        "moveEn": "Bullet Punch",
+        "moveFr": "Pisto-Poing",
+        "score": "96%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Archeops",
+        "nameFr": "Aéroptéryx",
+        "moveEn": "Steel Wing",
+        "moveFr": "Aile d'Acier",
+        "score": "93%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Scizor",
+        "nameFr": "Cizayox",
+        "moveEn": "Bullet Punch",
+        "moveFr": "Pisto-Poing",
+        "score": "92%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Scizor",
+        "nameFr": "Cizayox",
+        "moveEn": "Bullet Punch",
+        "moveFr": "Pisto-Poing",
+        "score": "89%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Eternatus",
+        "nameFr": "Éthernatos",
+        "moveEn": "Poison Jab",
+        "moveFr": "Direct Toxik",
+        "score": "89%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Fighting",
+    "typeFr": "Combat",
+    "emoji": "💪",
+    "attackers": [
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Mewtwo",
+        "nameFr": "Mewtwo",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "99%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "97%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "90%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gallade",
+        "nameFr": "Gallame",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "89%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "89%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Charm",
+        "moveFr": "Charme",
+        "score": "86%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Hoopa",
+        "nameFr": "Hoopa",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "85%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "Déchaîné"
+      },
+      {
+        "nameEn": "Mewtwo",
+        "nameFr": "Mewtwo",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "82%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Fire",
+    "typeFr": "Feu",
+    "emoji": "🔥",
+    "attackers": [
+      {
+        "nameEn": "Diancie",
+        "nameFr": "Diancie",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rampardos",
+        "nameFr": "Charkos",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyogre",
+        "nameFr": "Kyogre",
+        "moveEn": "Waterfall",
+        "moveFr": "Cascade",
+        "score": "94%",
+        "shadow": false,
+        "mega": false,
+        "primal": true,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyogre",
+        "nameFr": "Kyogre",
+        "moveEn": "Waterfall",
+        "moveFr": "Cascade",
+        "score": "88%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Aerodactyl",
+        "nameFr": "Ptéra",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "86%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Excadrill",
+        "nameFr": "Minotaupe",
+        "moveEn": "Mud Slap",
+        "moveFr": "Coud'Boue",
+        "score": "83%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "83%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "82%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyrantrum",
+        "nameFr": "Rexillius",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "81%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Flying",
+    "typeFr": "Vol",
+    "emoji": "🕊️",
+    "attackers": [
+      {
+        "nameEn": "Diancie",
+        "nameFr": "Diancie",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rampardos",
+        "nameFr": "Charkos",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyurem",
+        "nameFr": "Kyurem",
+        "moveEn": "Ice Fang",
+        "moveFr": "Crocs Givré",
+        "score": "91%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "Blanc"
+      },
+      {
+        "nameEn": "Aerodactyl",
+        "nameFr": "Ptéra",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "86%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Manectric",
+        "nameFr": "Élecsprint",
+        "moveEn": "Thunder Fang",
+        "moveFr": "Crocs Éclair",
+        "score": "84%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "83%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "82%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyrantrum",
+        "nameFr": "Rexillius",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "81%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rampardos",
+        "nameFr": "Charkos",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "80%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Ghost",
+    "typeFr": "Spectre",
+    "emoji": "👻",
+    "attackers": [
+      {
+        "nameEn": "Blacephalon",
+        "nameFr": "Pierroteknik",
+        "moveEn": "Astonish",
+        "moveFr": "Étonnement",
+        "score": "100%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Hydreigon",
+        "nameFr": "Trioxhydre",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "99%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "98%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "97%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Sharpedo",
+        "nameFr": "Sharpedo",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "94%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gyarados",
+        "nameFr": "Léviator",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "93%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Sharpedo",
+        "nameFr": "Sharpedo",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "92%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gengar",
+        "nameFr": "Ectoplasma",
+        "moveEn": "Sucker Punch",
+        "moveFr": "Coup Bas",
+        "score": "92%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Salamence",
+        "nameFr": "Drattak",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "89%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Grass",
+    "typeFr": "Plante",
+    "emoji": "🌱",
+    "attackers": [
+      {
+        "nameEn": "Chandelure",
+        "nameFr": "Lugulabre",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "100%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Fire Fang",
+        "moveFr": "Crocs Feu",
+        "score": "97%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "97%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Pheromosa",
+        "nameFr": "Cancrelove",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "96%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blacephalon",
+        "nameFr": "Pierroteknik",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "96%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyurem",
+        "nameFr": "Kyurem",
+        "moveEn": "Ice Fang",
+        "moveFr": "Crocs Givré",
+        "score": "95%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "Blanc"
+      },
+      {
+        "nameEn": "Vikavolt",
+        "nameFr": "Lucanon",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "94%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Pinsir",
+        "nameFr": "Scarabrute",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "93%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Beedrill",
+        "nameFr": "Dardargnan",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "93%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Ground",
+    "typeFr": "Sol",
+    "emoji": "🏜️",
+    "attackers": [
+      {
+        "nameEn": "Kartana",
+        "nameFr": "Katagami",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "100%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyogre",
+        "nameFr": "Kyogre",
+        "moveEn": "Waterfall",
+        "moveFr": "Cascade",
+        "score": "89%",
+        "shadow": false,
+        "mega": false,
+        "primal": true,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyurem",
+        "nameFr": "Kyurem",
+        "moveEn": "Ice Fang",
+        "moveFr": "Crocs Givré",
+        "score": "85%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "Blanc"
+      },
+      {
+        "nameEn": "Victreebel",
+        "nameFr": "Empiflor",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "83%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyogre",
+        "nameFr": "Kyogre",
+        "moveEn": "Waterfall",
+        "moveFr": "Cascade",
+        "score": "82%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Victreebel",
+        "nameFr": "Empiflor",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "79%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Torterra",
+        "nameFr": "Torterra",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "77%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Vileplume",
+        "nameFr": "Rafflesia",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "77%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Roserade",
+        "nameFr": "Roserade",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "76%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Ice",
+    "typeFr": "Glace",
+    "emoji": "❄️",
+    "attackers": [
+      {
+        "nameEn": "Diancie",
+        "nameFr": "Diancie",
+        "moveEn": "Rock Throw",
+        "moveFr": "Jet-Pierres",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Force Palm",
+        "moveFr": "Force Paume",
+        "score": "99%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Heracross",
+        "nameFr": "Scarhino",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "98%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "96%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Chandelure",
+        "nameFr": "Lugulabre",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Rampardos",
+        "nameFr": "Charkos",
+        "moveEn": "Smack Down",
+        "moveFr": "Anti-Air",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Fire Fang",
+        "moveFr": "Crocs Feu",
+        "score": "93%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "93%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blacephalon",
+        "nameFr": "Pierroteknik",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "92%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Normal",
+    "typeFr": "Normal",
+    "emoji": "⚪",
+    "attackers": [
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Force Palm",
+        "moveFr": "Force Paume",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Heracross",
+        "nameFr": "Scarhino",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "99%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "98%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "92%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "90%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Conkeldurr",
+        "nameFr": "Bétochef",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "88%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "87%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Machamp",
+        "nameFr": "Mackogneur",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "85%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Mienshao",
+        "nameFr": "Shaofouine",
+        "moveEn": "Force Palm",
+        "moveFr": "Force Paume",
+        "score": "84%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Poison",
+    "typeFr": "Poison",
+    "emoji": "🐍",
+    "attackers": [
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Mewtwo",
+        "nameFr": "Mewtwo",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "99%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "90%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gallade",
+        "nameFr": "Gallame",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "89%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "89%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Hoopa",
+        "nameFr": "Hoopa",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "85%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": "Déchaîné"
+      },
+      {
+        "nameEn": "Mewtwo",
+        "nameFr": "Mewtwo",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "82%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gallade",
+        "nameFr": "Gallame",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "79%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Gardevoir",
+        "nameFr": "Gardevoir",
+        "moveEn": "Confusion",
+        "moveFr": "Choc Mental",
+        "score": "79%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Psychic",
+    "typeFr": "Psy",
+    "emoji": "🔮",
+    "attackers": [
+      {
+        "nameEn": "Pheromosa",
+        "nameFr": "Cancrelove",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "100%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blacephalon",
+        "nameFr": "Pierroteknik",
+        "moveEn": "Astonish",
+        "moveFr": "Étonnement",
+        "score": "100%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Hydreigon",
+        "nameFr": "Trioxhydre",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "98%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "98%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Vikavolt",
+        "nameFr": "Lucanon",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "97%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Pinsir",
+        "nameFr": "Scarabrute",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "97%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Tyranitar",
+        "nameFr": "Tyranocif",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "96%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Beedrill",
+        "nameFr": "Dardargnan",
+        "moveEn": "Bug Bite",
+        "moveFr": "Piqûre",
+        "score": "96%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Sharpedo",
+        "nameFr": "Sharpedo",
+        "moveEn": "Bite",
+        "moveFr": "Morsure",
+        "score": "94%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Rock",
+    "typeFr": "Roche",
+    "emoji": "🪨",
+    "attackers": [
+      {
+        "nameEn": "Kartana",
+        "nameFr": "Katagami",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "100%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Force Palm",
+        "moveFr": "Force Paume",
+        "score": "93%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Heracross",
+        "nameFr": "Scarhino",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "92%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "90%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyogre",
+        "nameFr": "Kyogre",
+        "moveEn": "Waterfall",
+        "moveFr": "Cascade",
+        "score": "89%",
+        "shadow": false,
+        "mega": false,
+        "primal": true,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "85%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "84%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Victreebel",
+        "nameFr": "Empiflor",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "83%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Kyogre",
+        "nameFr": "Kyogre",
+        "moveEn": "Waterfall",
+        "moveFr": "Cascade",
+        "score": "82%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Steel",
+    "typeFr": "Acier",
+    "emoji": "🛡️",
+    "attackers": [
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Force Palm",
+        "moveFr": "Force Paume",
+        "score": "100%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Heracross",
+        "nameFr": "Scarhino",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "99%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blaziken",
+        "nameFr": "Braségali",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "98%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Chandelure",
+        "nameFr": "Lugulabre",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "97%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Fire Fang",
+        "moveFr": "Crocs Feu",
+        "score": "95%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Darmanitan",
+        "nameFr": "Darumacho",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "95%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Blacephalon",
+        "nameFr": "Pierroteknik",
+        "moveEn": "Incinerate",
+        "moveFr": "Calcination",
+        "score": "94%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Lucario",
+        "nameFr": "Lucario",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "92%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Alakazam",
+        "nameFr": "Alakazam",
+        "moveEn": "Counter",
+        "moveFr": "Riposte",
+        "score": "90%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  },
+  {
+    "type": "Water",
+    "typeFr": "Eau",
+    "emoji": "💧",
+    "attackers": [
+      {
+        "nameEn": "Kartana",
+        "nameFr": "Katagami",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "100%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Victreebel",
+        "nameFr": "Empiflor",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "83%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Manectric",
+        "nameFr": "Élecsprint",
+        "moveEn": "Thunder Fang",
+        "moveFr": "Crocs Éclair",
+        "score": "79%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Victreebel",
+        "nameFr": "Empiflor",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "79%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Torterra",
+        "nameFr": "Torterra",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "77%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Vileplume",
+        "nameFr": "Rafflesia",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "77%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Roserade",
+        "nameFr": "Roserade",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "76%",
+        "shadow": false,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Shiftry",
+        "nameFr": "Tengalice",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "76%",
+        "shadow": true,
+        "mega": false,
+        "primal": false,
+        "form": ""
+      },
+      {
+        "nameEn": "Venusaur",
+        "nameFr": "Florizarre",
+        "moveEn": "Razor Leaf",
+        "moveFr": "Tranch'Herbe",
+        "score": "76%",
+        "shadow": false,
+        "mega": true,
+        "primal": false,
+        "form": ""
+      }
+    ]
+  }
+]

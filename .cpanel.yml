@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/echo "Deployment configured via Node.js App interface. This file satisfies cPanel requirements."

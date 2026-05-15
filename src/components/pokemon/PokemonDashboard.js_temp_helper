@@ -1,0 +1,63 @@
+
+// Helper function (Client Side)
+function parsePokemonStatsClient(text) {
+    const lines = text.split('\n').map(l => l.trim().toLowerCase()).filter(l => l.length > 0);
+    const stats = {};
+
+    // Helper to find number in a line
+    const extractNumber = (str) => {
+        const cleanStr = str.replace(/km/g, '');
+        const matches = cleanStr.match(/(\d[\d\s,.]*\d|\d)/g);
+        if (!matches) return null;
+        // Parse float: remove spaces/commas/dots usually used as thousands separators
+        // Assuming standard format
+        const numbers = matches.map(m => parseFloat(m.replace(/[\s,.]/g, ''))); 
+        return numbers[0];
+    };
+
+    const findStat = (keywords) => {
+        for (const line of lines) {
+            if (keywords.some(k => line.includes(k))) {
+                let num = extractNumber(line);
+                if (num !== null) return num;
+                const index = lines.indexOf(line);
+                if (index < lines.length - 1) {
+                    num = extractNumber(lines[index + 1]);
+                    if (num !== null) return num;
+                }
+                if (index > 0) {
+                    num = extractNumber(lines[index - 1]);
+                    if (num !== null) return num;
+                }
+            }
+        }
+        return null;
+    };
+
+    const xpMatch = text.replace(/\s/g, '').match(/totalxp[:\s]*(\d+)/i) ||
+        text.match(/total\s+xp\s*[:\s]*([\d\s]+)/i);
+
+    if (xpMatch) {
+         // remove non-digits
+        stats.xp = parseInt(xpMatch[1].replace(/\D/g, ''));
+    } else {
+        stats.xp = findStat(['total xp', 'xp total', 'expérience', 'experience']);
+    }
+
+    const levelMatch = text.match(/(?:niveau|level|lvl|niv)[\s.:]*(\d{1,3})/i);
+    if (levelMatch) {
+        stats.level = parseInt(levelMatch[1]);
+    } else {
+         const nivIndex = lines.findIndex(l => /niveau|level/.test(l));
+         if (nivIndex !== -1 && nivIndex < lines.length - 1) {
+             const nextLineNum = extractNumber(lines[nivIndex + 1]);
+             if (nextLineNum && nextLineNum < 100) stats.level = nextLineNum;
+         }
+    }
+
+    stats.distance = findStat(['distance', 'km', 'walked', 'marchée']);
+    stats.caught = findStat(['caught', 'attrapés', 'pokemon caught']);
+    stats.stops = findStat(['stops', 'visités', 'visited']);
+
+    return stats;
+}
