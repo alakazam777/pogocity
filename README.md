@@ -1,111 +1,156 @@
-# PogoCity
+<div align="center">
 
-Le portail web clé en main pour les communautés **Pokémon GO** locales — globe 3D,
-classements, échanges, Pokédex, événements. Connecté au réseau **Pogosphère**.
+# 🌍 PogoCity
 
-Ce dépôt est un **template** : créez le site de votre ville en quelques minutes.
+### A turnkey website for your local Pokémon GO community
+
+<img src="public/og-image.png" alt="PogoCity" width="640">
+
+![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
+&nbsp;
+![React](https://img.shields.io/badge/React-19-61dafb?logo=react)
+&nbsp;
+![Template](https://img.shields.io/badge/GitHub-use%20this%20template-22c55e?logo=github)
+
+</div>
 
 ---
 
-## 🚀 Créer le site de votre ville
+## 🧐 What is PogoCity?
 
-### 1. Prérequis
-- [Node.js](https://nodejs.org) 20 ou plus récent
-- Un compte Discord (pour la connexion des utilisateurs)
-- Un compte GitHub
+PogoCity is a **ready-to-run website template** for Pokémon GO communities.
+Each city runs its own copy — a full community portal with a **3D globe,
+leaderboards, trade lists, a Pokédex tracker and an events calendar**.
 
-### 2. Récupérer le code
-Cliquez sur le bouton vert **« Use this template »** en haut de cette page GitHub,
-puis **Create a new repository**. Donnez-lui le nom de votre ville (ex. `pogo-angers`).
+**No coding required.** Fork it, edit a single file (`city.config.js`), and
+your city has its own site — automatically connected to the worldwide
+**Pogosphère** network.
 
-Ensuite, sur votre ordinateur :
+```
+                   ┌──────────────────────────────┐
+                   │        pogosphere.com        │
+                   │    global hub  ·  world map  │
+                   └───────────────┬──────────────┘
+            shared events ▼        │        ▲ rankings & trades
+              (hub → city)         │        │   (city → hub)
+        ┌──────────────────────────┴────────┴──────────────────┐
+        ▼                          ▼                           ▼
+   ┌──────────┐               ┌──────────┐               ┌──────────┐
+   │ PogoCity │               │ PogoCity │               │ PogoCity │
+   │  Angers  │               │   Lyon   │               │   ...    │
+   └──────────┘               └──────────┘               └──────────┘
+         └─────────  your community sites — one per city  ─────────┘
+```
+
+- ⬇️ **Events** flow *down* from the hub — every city shows the same calendar.
+- ⬆️ **Rankings & trades** flow *up* — your trainers reach the world map.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 🌐 **3D globe** | Explore community cities around the world |
+| 🏆 **Leaderboards** | Trainer rankings + PvP & raid tier lists |
+| 🔄 **Trade hub** | Build and share trade lists |
+| 📋 **Pokédex tracker** | Personal collection checklist |
+| 📅 **Events** | Shared calendar, synced from the hub |
+| 🔑 **Discord login** | One-click sign-in for your members |
+| 🌍 **Multilingual** | French · English · Japanese |
+
+---
+
+## 🚀 Quick start — build your city's site
+
+> **You'll need:** [Node.js 20+](https://nodejs.org) · a Discord account · a GitHub account
+
+### 1️⃣ &nbsp; Get your own copy
+
+Click the green **`Use this template`** button at the top of this page →
+**Create a new repository** → name it after your city (e.g. `pogo-angers`).
+
+Then, on your computer:
 
 ```bash
-git clone https://github.com/VOTRE-COMPTE/pogo-angers.git
+git clone https://github.com/YOUR-NAME/pogo-angers.git
 cd pogo-angers
 npm install
 ```
 
-### 3. Configurer votre ville
-Ouvrez **`city.config.js`** et remplissez vos informations : nom du site, ville,
-domaine, langue, coordonnées GPS, couleur, lien Discord, contact.
+### 2️⃣ &nbsp; Configure your city
 
-👉 C'est le **seul fichier** à modifier pour la personnalisation.
+Open **`city.config.js`** and fill in your details: site name, city, domain,
+language, GPS coordinates, theme color, Discord link, contact info.
 
-### 4. Les secrets
-Copiez `.env.example` vers `.env.local` :
+> 👉 **This is the only file you need to edit.**
+
+### 3️⃣ &nbsp; Add your secrets
 
 ```bash
 cp .env.example .env.local
 ```
 
-Puis remplissez les valeurs (identifiants Discord, etc.). Voir **`DISCORD_SETUP.md`**
-pour créer votre application Discord.
+Fill in `.env.local` with your Discord credentials — see **`DISCORD_SETUP.md`**
+for a step-by-step guide to creating your Discord app.
 
-⚠️ Ne committez **jamais** `.env.local` — il contient vos secrets (déjà dans `.gitignore`).
+> ⚠️ **Never commit `.env.local`** — it holds your secrets (already in `.gitignore`).
 
-### 5. Votre logo
-Remplacez ces fichiers dans `/public` par les vôtres :
-- `logo.svg` — le logo du site
-- `icon-512.png` — l'icône / favicon
-- `og-image.png` — l'image de partage social (1200 × 630 px)
+### 4️⃣ &nbsp; Add your branding
 
-### 6. Lancer le site
+Replace these files in `/public` with your own:
+
+| File | What it is |
+|---|---|
+| `logo.svg` | Site logo |
+| `icon-512.png` | App icon / favicon |
+| `og-image.png` | Social share image (1200 × 630 px) |
+
+### 5️⃣ &nbsp; Run it
 
 ```bash
-npm run dev      # développement (ouvrez l'adresse indiquée dans le terminal)
-npm run build    # build de production
+npm run dev      # development — open the address shown in the terminal
+npm run build    # production build
 ```
 
----
-
-## 🌐 Le réseau Pogosphère
-
-PogoCity se connecte à **[pogosphere.com](https://pogosphere.com)**, le hub mondial :
-
-- **Événements** — votre site affiche automatiquement le calendrier d'événements
-  partagé par le hub. Rien à gérer.
-- **Classements & échanges** — une fois votre site en ligne, vos dresseurs et vos
-  listes d'échanges peuvent apparaître sur la carte mondiale de Pogosphère.
-  Contactez l'équipe Pogosphère pour enregistrer l'URL de votre ville.
-
-Réglages dans `city.config.js` → section `federation`.
+🎉 **Done — your city now has its own community site.**
 
 ---
 
-## 🔄 Rester à jour
+## 🔄 Staying up to date
 
-PogoCity évolue (design, nouvelles fonctionnalités). Pour récupérer les dernières
-améliorations sans perdre votre configuration :
+PogoCity keeps improving. Pull the latest features **without losing your
+configuration**:
 
 ```bash
-# Une seule fois — lier le template d'origine :
-git remote add upstream https://github.com/VOTRE-COMPTE/pogocity.git
+# One time only — link the original template:
+git remote add upstream https://github.com/alakazam777/pogocity.git
 
-# À chaque mise à jour :
+# Whenever you want the latest updates:
 git fetch upstream
 git merge upstream/main
 ```
 
-Votre `city.config.js` et vos secrets ne sont pas touchés — seul le code commun
-est mis à jour.
+Your `city.config.js` and your secrets are never touched — only the shared
+code is updated.
 
 ---
 
-## 📁 Structure du projet
+## 📁 Project structure
 
-| Chemin | Rôle |
+| Path | Role |
 |---|---|
-| `city.config.js` | **Votre configuration** (à éditer) |
-| `.env.local` | **Vos secrets** (à créer, jamais committé) |
-| `src/` | Le code de l'application (Next.js) |
+| `city.config.js` | **Your settings** — edit this |
+| `.env.local` | **Your secrets** — create this, never commit |
+| `src/` | Application code (Next.js) |
 | `public/` | Images, logos, assets |
-| `data/` | Données locales du site (créées automatiquement) |
+| `data/` | Local site data (created automatically) |
 
 ---
 
-## ⚖️ Mentions
+## ⚖️ Disclaimer
 
-PogoCity est un projet communautaire **fan-made**, gratuit et non commercial,
-indépendant des éditeurs et développeurs de tout jeu de capture de créatures.
-Toutes les marques tierces appartiennent à leurs ayants droit respectifs.
+PogoCity is a **fan-made**, free, non-commercial community project. It is not
+affiliated with, endorsed by, or sponsored by the publishers or developers of
+any monster-catching game. All third-party trademarks belong to their
+respective owners.
