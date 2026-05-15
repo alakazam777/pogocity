@@ -26,20 +26,25 @@ leaderboards, trade lists, a Pokédex tracker and an events calendar**.
 your city has its own site — automatically connected to the worldwide
 **Pogosphère** network.
 
+> 🔗 **See it live:** [**pogopoitiers.fr**](https://pogopoitiers.fr) — the
+> original community site PogoCity is built from. That's what your city's
+> portal will look like.
+
 ```
-                   ┌──────────────────────────────┐
-                   │        pogosphere.com        │
-                   │    global hub  ·  world map  │
-                   └───────────────┬──────────────┘
-            shared events ▼        │        ▲ rankings & trades
-              (hub → city)         │        │   (city → hub)
-        ┌──────────────────────────┴────────┴──────────────────┐
-        ▼                          ▼                           ▼
-   ┌──────────┐               ┌──────────┐               ┌──────────┐
-   │ PogoCity │               │ PogoCity │               │ PogoCity │
-   │  Angers  │               │   Lyon   │               │   ...    │
-   └──────────┘               └──────────┘               └──────────┘
-         └─────────  your community sites — one per city  ─────────┘
+                ┌─────────────────────────────────┐
+                │          pogosphere.com         │
+                │     global hub  ·  world map    │
+                └─────────────────────────────────┘
+                    ▲                          │
+                    │  rankings & trades        │  shared events
+                    │  go UP (city → hub)       │  come DOWN (hub → city)
+                    │                          ▼
+       ┌────────────┴───────┬──────────────────┴───────────┐
+       │                    │                              │
+ ┌──────────────┐    ┌──────────────┐            ┌──────────────┐
+ │ PogoPoitiers │    │  your city   │            │     ...      │
+ └──────────────┘    └──────────────┘            └──────────────┘
+        every community runs its own PogoCity site
 ```
 
 - ⬇️ **Events** flow *down* from the hub — every city shows the same calendar.
@@ -68,13 +73,13 @@ your city has its own site — automatically connected to the worldwide
 ### 1️⃣ &nbsp; Get your own copy
 
 Click the green **`Use this template`** button at the top of this page →
-**Create a new repository** → name it after your city (e.g. `pogo-angers`).
+**Create a new repository** → name it after your city (e.g. `pogo-poitiers`).
 
 Then, on your computer:
 
 ```bash
-git clone https://github.com/YOUR-NAME/pogo-angers.git
-cd pogo-angers
+git clone https://github.com/YOUR-NAME/pogo-poitiers.git
+cd pogo-poitiers
 npm install
 ```
 
